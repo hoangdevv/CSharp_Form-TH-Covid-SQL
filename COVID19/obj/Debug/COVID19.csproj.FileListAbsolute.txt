@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\COVID19\COVID19\bin\Debug\COVID19.exe.config
+C:\Users\Administrator\source\repos\COVID19\COVID19\bin\Debug\COVID19.exe
+C:\Users\Administrator\source\repos\COVID19\COVID19\bin\Debug\COVID19.pdb
+C:\Users\Administrator\source\repos\COVID19\COVID19\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\COVID19\COVID19\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\COVID19\COVID19\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\COVID19\COVID19\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\COVID19\COVID19\obj\Debug\COVID19.Form1.resources
+C:\Users\Administrator\source\repos\COVID19\COVID19\obj\Debug\COVID19.Properties.Resources.resources
+C:\Users\Administrator\source\repos\COVID19\COVID19\obj\Debug\COVID19.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\COVID19\COVID19\obj\Debug\COVID19.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\COVID19\COVID19\obj\Debug\COVID19.csproj.CopyComplete
+C:\Users\Administrator\source\repos\COVID19\COVID19\obj\Debug\COVID19.exe
+C:\Users\Administrator\source\repos\COVID19\COVID19\obj\Debug\COVID19.pdb
+C:\Users\Administrator\source\repos\COVID19\COVID19\obj\Debug\COVID19.Form2.resources
+C:\Users\Administrator\source\repos\COVID19\COVID19\obj\Debug\COVID19.csproj.AssemblyReference.cache
